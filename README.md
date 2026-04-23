@@ -13,7 +13,7 @@ Computer Science student at HCMC University of Technology – VNUHCM, passionate
 ## Tech stack
 **Programming Languages:** Python, SQL, R, C++  
 **Machine Learning, AI & XAI:** PyTorch, Scikit-learn, XGBoost, LightGBM, Random Forest, SHAP
-**Computer Vision:** CNNs, YOLO, OpenCV, EasyOCR  
+**Machine Learning, AI & XAI:** CNNs, YOLO, OpenCV, EasyOCR  
 **Data Analysis & Visualization:** Matplotlib, Seaborn, Plotly, Microsoft Excel  
 **MLOps & Deployment:** FastAPI, MLflow, Docker  
 **Tools:** Git, Jupyter Notebook, VS Code
