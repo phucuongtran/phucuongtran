@@ -8,15 +8,15 @@ Computer Science student at HCMC University of Technology – VNUHCM, passionate
 - 👁️ Long-term focus: Computer Vision
 - 📚 Currently learning and building with ML, DL, MLOps, and backend systems
 - 🌏 Based in Ho Chi Minh City, Vietnam
-- 🗣️ Languages: Vietnamese (Native), English (TOEIC 750), Japanese (JLPT N3)
+- 🗣️ Languages: Vietnamese (Native), English, Japanese
 
 ## Tech stack
-**Languages:** Python, SQL, R  
-**Machine Learning / AI:** TensorFlow, PyTorch, Scikit-learn, XGBoost, CNN  
-**Computer Vision:** YOLOv8, OpenCV, EasyOCR  
-**Data / Visualization:** Matplotlib, Seaborn, Plotly  
-**MLOps / Deployment:** Flask, FastAPI, MLflow, Docker  
-**Tools:** Git, Jupyter Notebook, VS Code, Microsoft Excel
+**Programming Languages:** Python, SQL, R, C++  
+**Machine Learning, AI & XAI:** PyTorch, Scikit-learn, XGBoost, LightGBM, Random Forest, SHAP
+**Computer Vision:** CNNs, YOLO, OpenCV, EasyOCR  
+**Data Analysis & Visualization:** Matplotlib, Seaborn, Plotly, Microsoft Excel  
+**MLOps & Deployment:** FastAPI, MLflow, Docker  
+**Tools:** Git, Jupyter Notebook, VS Code
 
 ## Education
 **HCMC University of Technology – VNUHCM**  
